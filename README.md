@@ -1,2 +1,2 @@
 # python
-python code
+有關Python的程式碼
